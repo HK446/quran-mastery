@@ -1,0 +1,62 @@
+[
+  {
+    "verse_key": "1:1",
+    "surah": 1,
+    "ayah": 1,
+    "text_indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+    "page_13line": 1,
+    "line_numbers": [1],
+    "global_order": 1,
+    "juz_number": 1,
+    "ruku_global": 1,
+    "ruku_in_juz": 1,
+    "is_ruku_start": true,
+    "is_page_start": true,
+    "is_page_end": false
+  },
+  {
+    "verse_key": "1:2",
+    "surah": 1,
+    "ayah": 2,
+    "text_indopak": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ",
+    "page_13line": 1,
+    "line_numbers": [2],
+    "global_order": 2,
+    "juz_number": 1,
+    "ruku_global": 1,
+    "ruku_in_juz": 1,
+    "is_ruku_start": false,
+    "is_page_start": false,
+    "is_page_end": false
+  },
+  {
+    "verse_key": "2:1",
+    "surah": 2,
+    "ayah": 1,
+    "text_indopak": "الٓمّٓ",
+    "page_13line": 2,
+    "line_numbers": [1],
+    "global_order": 8,
+    "juz_number": 1,
+    "ruku_global": 2,
+    "ruku_in_juz": 2,
+    "is_ruku_start": true,
+    "is_page_start": true,
+    "is_page_end": false
+  },
+  {
+    "verse_key": "2:2",
+    "surah": 2,
+    "ayah": 2,
+    "text_indopak": "ذٰلِكَ الْكِتٰبُ لَا رَيْبَ ۛ فِيْهِ ۛ هُدًى لِّلْمُتَّقِيْنَ",
+    "page_13line": 2,
+    "line_numbers": [2],
+    "global_order": 9,
+    "juz_number": 1,
+    "ruku_global": 2,
+    "ruku_in_juz": 2,
+    "is_ruku_start": false,
+    "is_page_start": false,
+    "is_page_end": false
+  }
+]
